@@ -51,7 +51,15 @@ Topic 1.2: Security Operations Center
 
    - Just did a demonstration
 
+Topic 2: Learned the Pyramid of pain. 
 
+  - Hash values: You can see file name for this.
+  - IP address: Important for trying to find where the attacker is attacking from and domain
+  - Domain names: Can use puny codes to trick users. TinyUrl is often used to shorten links.
+  - Host artifacts: Post requestions and port then find the IP. Find the executable
+  - Netwok artifacts: Look up the user agent string to find the information
+  - Tools: To find similarity between two files, fuzzy hasing is used. The alternative name is context triggered piecewise hashes.
+  - TTPS: 9 techniques fall under exfiltration category. Tactics techinques and procedures. 
    
       
       
