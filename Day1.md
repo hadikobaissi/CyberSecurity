@@ -30,7 +30,7 @@ Topic 1.1: A career as a Junior Security Analyst
   - Make ticekts and escalate the security incidents to the Tier 2 and team lead if needed.
   - You will be a Triage Specialist.
 
-Topic 1.2: Security Operations Center:
+Topic 1.2: Security Operations Center
 
   - Core function of a SOC, is to investigate, monitor, prevent and respond to threates in the cyber realm around the clock.
   - Some responsibilities of a SOC:
@@ -43,5 +43,15 @@ Topic 1.2: Security Operations Center:
       - SIEM: Security information and event management
       - Reporting
 
-    - Preparation and
+    - Preparation and Prevention
+    - Monitoring and Investigation
+    - Response
+
+   Topic 1.3: A day in the life
+
+   - Just did a demonstration
+
+
+   
+      
       
